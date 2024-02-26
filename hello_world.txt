@@ -1,1 +1,2 @@
 Heres some text.
+Message commit test
